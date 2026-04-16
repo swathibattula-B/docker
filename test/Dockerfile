@@ -1,0 +1,1 @@
+FROM NGINX:1.0.0
